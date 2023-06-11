@@ -15,3 +15,13 @@ body{
     background-size: cover;
     background-position: center;
 }
+.logo{
+    width: 100px;
+    height: 70px;
+}
+.container{
+    padding: 10px 10%;
+}
+nav{
+    display: flex;
+}
