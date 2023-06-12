@@ -246,4 +246,14 @@ nav ul li a{
     background: #ff004f;
 }
 /*----------------------------------------------contact-------------------------*/
+.cotact-left{
+    flex-basis: 35%;
+}
+.cotact-right{
+    flex-basis: 60%;
+}
+.cotact-left p{
+    margin-top: 30px;
+}
+
 
