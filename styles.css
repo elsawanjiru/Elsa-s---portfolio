@@ -4,6 +4,9 @@
     font-family: 'poppins', sans-serif;
     box-sizing: border-box;
 }
+html{
+    scroll-behavior: smooth;
+}
 body{
     background: #080808;
     color: #fff;
@@ -311,6 +314,6 @@ form .btn2{
 }
 /*---------------------runnin media queries---------*/
 @media only screen and (max-with: 600px){
-    
+
 }
 
